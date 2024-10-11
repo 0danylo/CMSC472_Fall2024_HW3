@@ -14,7 +14,7 @@ For Assignment 3, you will use hw3.ipynb to learn PyTorch while trying to create
 
 ## Download the data file
 
-Download the data file [here](https://umd.instructure.com/files/77640124/download?download_frd=1). Make sure that you are logged in to ELMS before downloading.
+Download the data file [here](https://umd.instructure.com/files/80453154/download?download_frd=1). Make sure that you are logged in to ELMS before downloading.
 
 # Challenge Description
 
@@ -45,14 +45,14 @@ Things just got more interesting! The top-10 testset accuracies in class will be
 
 ## Submission
 
-For Assignment 3, there are a few  explaination questions asked which needs to be answered apart from the coding questions. 
+For Assignment 3, there are a few explaination questions asked which needs to be answered apart from the coding questions. 
 
 Submission needs to be done on Gradescope. Upload the iPython notebook to Google Drive (do not forget to give access). Now, get the share link for the ipython notebook and embed it inside the notebook (you can do this by opening the notebook on the drive using Google Colab).  Please generate a PDF from the iPython notebook and upload it to Gradescope. Please make sure that the PDF contains the link to the Google Drive share otherwise the assignment may not be graded. **Make sure to submit the results file to ELMS as well**.
 
 ## Deadline
 
-Assignment 3 is due on **March 28 at 5:00pm**.  
+Assignment 3 is due on **TBD at 5:00pm**.  
 
-None of the parts of this assignment require the use of a machine with a GPU. You may complete the assignment using your local machine or you may use Google Colaboratory. However, we encourage you to try using Google Colaboratory and get familiar with it as it would be helpful in upcoming assignments.
+None of the parts of this assignment require the use of a machine with a GPU. You may complete the assignment using your local machine or you may use Google Colab. However, we encourage you to try using Google Colab and get familiar with it as it would be helpful in upcoming assignments.
 
 Credits: The format of this assignment is inspired by the Stanford CS231n assignments. We have borrowed some of their data loading and instructions in our assignment ipython notebook. 
